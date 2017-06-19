@@ -1,2 +1,1 @@
-### Markdown
-## this is my own blog of zhangxuefeng
+### Welcome to Blog of Ethan
